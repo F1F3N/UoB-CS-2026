@@ -1,2 +1,2 @@
-print("HI")
+print("HI 2026")
 print("Hello")
